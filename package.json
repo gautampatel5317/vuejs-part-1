@@ -21,7 +21,7 @@
     "vue-cli-plugin-bootstrap-vue": "^0.8.2",
     "vuejs-datatable": "^2.0.0-alpha.7",
     "webfontloader": "^1.0.0",
-    "webpack": "^5.10.3"
+    "webpack": "^5.76.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^5.0.4",
